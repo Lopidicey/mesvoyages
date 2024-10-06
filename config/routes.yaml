@@ -1,3 +1,7 @@
 index:
     path: /
     controller: App\Controller\AccueilController::index
+    
+voyages:
+    path: voyages
+    controller: App\Controller\VoyagesController::index
